@@ -213,7 +213,7 @@ class _MyHomeState extends State<MyHome> {
                       children: [
                         mySpec(FontAwesomeIcons.appStoreIos, 'iOS'),
                         mySpec(FontAwesomeIcons.terminal, 'Scripting'),
-                        mySpec(FontAwesomeIcons.gamepad, 'Game Dev'),
+                        mySpec(FontAwesomeIcons.gamepad, 'API Dev'),
                       ],
                     ),
                   ],
